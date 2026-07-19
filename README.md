@@ -1,3 +1,14 @@
+---
+title: Visual Dashboard
+emoji: "📊"
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 1.38.0
+app_file: app.py
+pinned: false
+---
+
 # 电商数据爬虫 + 可视化看板
 
 一个完整的电商数据采集、存储与分析系统，支持多平台商品数据采集和交互式可视化看板。
